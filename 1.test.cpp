@@ -1,4 +1,4 @@
-
+//读取图像
 #include "cv.h"
 #include "highgui.h"
 #include "cxcore.h"
